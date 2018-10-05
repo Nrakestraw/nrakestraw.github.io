@@ -1,0 +1,39 @@
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: red;
+    }
+    
+    .my-navbar {
+        background-color: orange;
+        border-color: red;
+    }
+    
+    @media (min-width: 768px)
+    .navbar {
+        border-radius: 0px;
+    }
+    
+    .jumbotron {
+        background-image: url(../b427d19dd6238628dc7fa8acc2c212d3.jpg);
+        background-size:100% auto;
+        background-position: center;
+        background-repeat: no-repeat;
+       
+    }
+    .jumbotron h1, .jumbotron p {
+
+        background-color: rgba(0, 0, 0, 0.5);
+
+    }
+
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: red;
+            color: white;
+            text-align: center;
+        }
+    
+
+    
